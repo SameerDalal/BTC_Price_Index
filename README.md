@@ -1,4 +1,4 @@
-﻿# BTC_Price_Index
+﻿# BTC Price Index
  
 ## About
 This program takes the changing prices in Bitcoin and graphs them on a web page.
