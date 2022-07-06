@@ -5,6 +5,8 @@ This program takes the changing prices in Bitcoin and graphs them on a web page.
 
 As soon as the program is started it takes the current Bitcoin price and graphs it every 5 seconds. 
 
+<img src = "img/price_index.PNG">
+
 
 ## API
 The program uses the [Messari](https://messari.io/) API to retrive the current price of BTC in USD.
