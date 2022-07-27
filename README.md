@@ -7,7 +7,6 @@ As soon as the program is started it takes the current Bitcoin price and graphs 
 
 <img src = "img/price_index.PNG">
 
-
 ## API
 The program uses the [Messari](https://messari.io/) API to retrive the current price of BTC in USD.
 
